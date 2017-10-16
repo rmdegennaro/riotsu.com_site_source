@@ -1,8 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+#baseurl = "http://localhost/riodev/rmdegennaro.github.io/gohugo_site/"
+baseurl = "http://rmdegennaro.github.io/gohugo_site/"
 languageCode = "en-us"
 title = "(soon to be) riotsu.com"
 theme = "hugo-universal-theme"
-
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
@@ -16,7 +16,6 @@ paginate = 10
 [menu]
 
 # Main menu
-
 [[menu.main]]
     name = "Home"
     url  = "/"
@@ -29,21 +28,27 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
+    name = "Tech"
+    identifier = "tech"
+    url  = "/tech/"
+    weight = 3
+
+[[menu.main]]
     name = "Music"
     identifier = "music"
     url  = "/music/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Food"
     identifier = "food"
     url  = "/food/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 5
+    weight = 6
 
 #[[menu.main]]
 #    name = "Contact"
@@ -51,7 +56,6 @@ paginate = 10
 #    weight = 5
 
 # Top bar social links menu
-
 [[menu.topbar]]
     weight = 1
     name = "LinkedIn"
@@ -76,17 +80,18 @@ paginate = 10
     url = "mailto:your@email.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
+# other parameters
 [params]
     viewMorePostLink = "/blog/"
     author = "Rio"
-    defaultKeywords = ["Rio", "RioTsu", "go"]
+    defaultKeywords = ["Rio", "RioTsu"]
     defaultDescription = "Rio's musing about technology, music and life."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "blue"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -103,7 +108,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "rmdegennaro@gmail.com"
 
-    about_us = "<p>Rio, just Rio.</p>"
+    about_us = "<p>Rio, just Rio.</p><p>rmdegennaro@gmail.com</p><p>linkedin.com/in/rmdegennaro</p>"
     copyright = "Copyright (c) 2017, Ralph deGennaro; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -170,10 +175,10 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Projects I Like"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Recent Blog Posts"
+    subtitle = "It's a bit like shouting in a large room with everyone else shouting at the same time. (quote from my brother)"

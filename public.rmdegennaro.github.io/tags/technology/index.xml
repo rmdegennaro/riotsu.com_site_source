@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on (soon to be) riotsu.com</title>
+    <link>http://rmdegennaro.github.io/gohugo_site/tags/technology/</link>
+    <description>Recent content in Technology on (soon to be) riotsu.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Ralph deGennaro; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 19:18:59 -0400</lastBuildDate>
+    
+	<atom:link href="http://rmdegennaro.github.io/gohugo_site/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Use of Hugo</title>
+      <link>http://rmdegennaro.github.io/gohugo_site/blog/2017/10/14/my-first-use-of-hugo/</link>
+      <pubDate>Sat, 14 Oct 2017 19:18:59 -0400</pubDate>
+      
+      <guid>http://rmdegennaro.github.io/gohugo_site/blog/2017/10/14/my-first-use-of-hugo/</guid>
+      <description>I make myself laugh. The title is so &amp;ldquo;meta&amp;rdquo;. My first use of hugo is in hugo. :-/
+Anyways, for the most part, so far, so good for the most past. I&amp;rsquo;ve created a site, added some themes and created this first post. There are some hiccups along the way though. They are all documentation related at this point.
+Little Bumps In The Road First one, is a chicken and the egg sort of thing.</description>
+    </item>
+    
+  </channel>
+</rss>

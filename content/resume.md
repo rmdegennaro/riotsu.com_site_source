@@ -4,7 +4,7 @@ description = "Resume"
 draft = false
 +++
 
-rmdegennaro@gmail.com, (www.linkedin.com/in/rmdegennaro)
+rmdegennaro@gmail.com, <a href = "https://www.linkedin.com/in/rmdegennaro" target="blank">linkedin.com/in/rmdegennaro</a>
 
 # SUMMARY
 

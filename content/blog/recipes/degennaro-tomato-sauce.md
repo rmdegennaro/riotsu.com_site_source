@@ -4,7 +4,7 @@ draft = false
 title = "DeGennaro Tomato Sauce"
 tags = ["Food","Italian Food","Recipes"]
 categories = ["Recipes"]
-banner = "img/banners/banner-5.jpg"
+banner = "img/blogposts/tomato-sauce-in-jar.jpg"
 +++
 
 # Introduction:
