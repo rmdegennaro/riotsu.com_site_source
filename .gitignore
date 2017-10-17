@@ -1,4 +1,7 @@
 # added to not checkin real data, config, etc.
+public.rmdegennaro.github.io/*
+public.localhost/*
+public/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
