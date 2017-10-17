@@ -1,5 +1,5 @@
 #baseurl = "http://localhost/riodev/rmdegennaro.github.io/gohugo_site/"
-baseurl = "http://rmdegennaro.github.io/gohugo_site/"
+baseurl = "http://rmdegennaro.github.io/"
 languageCode = "en-us"
 title = "(soon to be) riotsu.com"
 theme = "universal-theme-rio"
