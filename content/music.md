@@ -4,6 +4,8 @@ description = "Music"
 draft = false
 +++
 
+- - - - - - -
+
 Music is a big part of my life. I've been in a few bands through out my history, check that info out below.  My tastes are varied and since I've started using Google Play Music to listen to and sync music across devices, I don't really have something to share for my tastes.  You could check out my last.fm page, but it is probably out of date by quite a number of years.  
 
 Anyways, on to the bands I've been in....

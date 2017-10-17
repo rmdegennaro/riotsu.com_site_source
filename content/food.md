@@ -3,6 +3,9 @@ title = "Food & Recipes"
 description = "Food & Recipes"
 draft = false
 +++
+
+- - - - - - -
+
 I love food. I like to eat, I like to cook. I'm part Italian and a cancer; what can I say? I also like to make up my own recipes, usually only reading cook books for ideas.
 
 Recipes are very limited right now, as I have recipes, like so much else, scattered in books, files, websites, bookmarks, scraps of paper, etc.  With the new Google Sites there is not an automatic way to create a list of sub-pages.  So please go to the menu above to get to recipes until they add it or I manually create a list of links.

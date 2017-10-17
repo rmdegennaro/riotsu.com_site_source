@@ -1,0 +1,9 @@
+weight: 1
+title: "Marty"
+description: >
+  <ul class="list-style-none">
+    <li>Marty, my cat</li>
+    <li>Passed away in May 2010</li>
+    <li>My best and truest friend</li>
+  </ul>
+image: "img/carousel/Marty001.jpg"

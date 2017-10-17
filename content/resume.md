@@ -4,11 +4,17 @@ description = "Resume"
 draft = false
 +++
 
+- - - - - - -
+
 rmdegennaro@gmail.com, <a href = "https://www.linkedin.com/in/rmdegennaro" target="blank">linkedin.com/in/rmdegennaro</a>
+
+- - - - - - -
 
 # SUMMARY
 
 Collaborative, practical, results-oriented Director Of Technology driven to guide organizations in incorporating seasoned technology. Adept identifying needs and connecting to innovative and intuitive solutions.  Excels at building productive and strategic relationships and effective teams while maintaining an eye on costs and an organization’s direction.
+
+- - - - - - -
 
 # EMPLOYMENT HISTORY
 
@@ -37,6 +43,8 @@ Collaborative, practical, results-oriented Director Of Technology driven to guid
   * Defined technical & business requirements using US market research and client meetings.
   * Managed additional technical & business implementations and training.
   * Conducted product demonstrations; defined scope & estimation of US sales contracts.
+
+- - - - - - -
 
 # EDUCATION
 

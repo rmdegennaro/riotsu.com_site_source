@@ -2,7 +2,7 @@
 date = "2000-01-01T12:00:00-00:00"
 draft = false
 title = "DeGennaro Tomato Sauce"
-tags = ["Food","Italian Food","Recipes"]
+tags = ["Food","Recipes","Italian Food"]
 categories = ["Recipes"]
 banner = "img/blogposts/tomato-sauce-in-jar.jpg"
 +++
@@ -12,15 +12,16 @@ banner = "img/blogposts/tomato-sauce-in-jar.jpg"
 This is mostly off the top of my head.  I've tweaked this as I've made it and remembered to edit it.  I'm sorry that when I make it I don't really think, I just go.  It is based on a family recipe passed down.  I.e. mostly traditional, but varied over the generations.   So this is the basic idea, I'll do more for "insight" into a good sauce at some point.
 
 # Ingredients:
-* Red Wine
-* Meat balls (I prefer a mix of turkey/bison/beef)
-* Spicy Italian Sausage (I prefer pork sausage)
-* Sweet Italian Sausage (I prefer chicken sausage)
-* Pepperoni Sausage
-* crushed/diced tomatoes
-* diced onions, peppers, mushrooms
-* spices (basil, oregano, thyme, sage)
-* fresh garlic (crushed)
+
+  * Red Wine
+  * Meat balls (I prefer a mix of turkey/bison/beef)
+  * Spicy Italian Sausage (I prefer pork sausage)
+  * Sweet Italian Sausage (I prefer chicken sausage)
+  * Pepperoni Sausage
+  * crushed/diced tomatoes
+  * diced onions, peppers, mushrooms
+  * spices (basil, oregano, thyme, sage)
+  * fresh garlic (crushed)
 
 # Instructions:
 

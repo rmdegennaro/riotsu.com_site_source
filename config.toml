@@ -2,7 +2,7 @@
 baseurl = "http://rmdegennaro.github.io/gohugo_site/"
 languageCode = "en-us"
 title = "(soon to be) riotsu.com"
-theme = "hugo-universal-theme"
+theme = "universal-theme-rio"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
@@ -77,7 +77,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:rmdegennaro@gmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 # other parameters
@@ -149,21 +149,21 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Quotes"
+    subtitle = "Here are some quotes that I like."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
