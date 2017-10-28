@@ -2,7 +2,7 @@
 date = "2017-04-02T17:21:00-00:00"
 draft = false
 title = "Manjaro, a distro that I'm really digging"
-tags = ["technology","linux","distro"]
+tags = ["technology","linux","distros"]
 categories = ["Tech"]
 banner = "img/blogposts/manjaro-a-distro-im-really-diggin.jpg"
 +++
