@@ -18,9 +18,9 @@ Collaborative, practical, results-oriented Director Of Technology driven to guid
 
 # EMPLOYMENT HISTORY
 
-## South Shore Charter Public School - Director of Technology & Communication (2011 – Present)
+## South Shore Charter Public School - Director of Technology (2011 – Present)
   * School Leadership:  Collaborate with school leaders & teachers to determine technology systems to meet school policy, procedural and financial requirements. Identify,  design, write automatic data workflow integration between systems. Manage technology personnel.
-  * Systems Management:  Design, implement, & monitor technology infrastructure & line of business systems including SIS, finance, content delivery, CMS, library management, etc.
+  * Systems Management:  Design, implement, & monitor technology infrastructure & line of business systems including SIS, finance, curriculum delivery, CMS, library management, etc.
   * Finance:  Create Technology Budget by determining requirements, obtaining bids, and setting up purchases.  File E-Rate paperwork. Advise in other finance requisitions.
   * Educational Services:  Perform professional development for new technology initiatives.  Lead administration of MCAS computer-based testing.  Teach 3-4 & 9-12 grade technology classes.  Participate in other technology and digital literacy programs.
 
@@ -48,4 +48,4 @@ Collaborative, practical, results-oriented Director Of Technology driven to guid
 
 # EDUCATION
 
-## The Johns Hopkins University, Baltimore, MD 1990-1994, B.S., Psychology with concentration in Personalities and Group Dynamics
+  * The Johns Hopkins University, Baltimore, MD 1990-1994, B.S., Psychology with concentration in Personalities and Group Dynamics

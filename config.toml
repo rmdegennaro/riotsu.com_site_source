@@ -1,7 +1,8 @@
 #baseurl = "http://localhost/riodev/rmdegennaro.github.io/gohugo_site/"
-baseurl = "http://rmdegennaro.github.io/"
+#baseurl = "http://rmdegennaro.github.io/"
+baseurl = "http://riotsu.com/"
 languageCode = "en-us"
-title = "(soon to be) riotsu.com"
+title = "riotsu.com"
 theme = "universal-theme-rio"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -46,9 +47,15 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
+    name = "Thoughtful"
+    identifier = "thoughtful"
+    url  = "/thoughtful/"
+    weight = 6
+
+[[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 6
+    weight = 7
 
 #[[menu.main]]
 #    name = "Contact"

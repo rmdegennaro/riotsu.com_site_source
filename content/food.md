@@ -22,8 +22,9 @@ I keep my recipes as [Recipe Blog Posts](../categories/recipes).
 
 Below are some "secrets" that I keep around to make cooking easier.  Mostly about spices....
 
-## Curry Spice Mix
+### Curry Spice Mix
 I've accumulated this mix of spices over time.  
+
   * Coriander
   * Tumeric
   * Chillies
@@ -39,8 +40,9 @@ I've accumulated this mix of spices over time.
   * Anise
   * Mustard Seed
 
-## Dhingra Garam Masala
+### Dhingra Garam Masala
 I got this basic space mixture from an old girlfriend's mom (Mrs. Dhingra was from India).  I've used it in many recipes and is definitely delicious.
+
   * Coriander
   * Cumin
   * White Pepper
@@ -49,7 +51,7 @@ I got this basic space mixture from an old girlfriend's mom (Mrs. Dhingra was fr
   * Black Pepper
   * Ilychi
 
-## Ginger Root
+### Ginger Root
 This is another trick from my mom. Keep a piece of ginger root in the freezer. Use a potato peeler to shave off the needed amount. The brown covering won't hurt you.
 
 - - -

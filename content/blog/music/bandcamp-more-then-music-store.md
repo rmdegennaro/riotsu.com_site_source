@@ -4,11 +4,13 @@ draft = false
 title = "What A Find, Bandcamp.com!"
 tags = ["business","freedom","music"]
 categories = ["Music"]
-banner = "img/yingyang.jpg"
+banner = "img/blogposts/bandcamp2.jpg"
 +++
 Surfing can be fun.  I am usually targeted in my use of the Internet, but I'm really glad I found this website.
 
 It started out from a potentially annoying thing.  Someone whom I have no relation, nor do I have any idea why they wanted to "be my friend" on Last.fm.  That site isn't the website of interest, and I love <a href = "http://last.fm/" target="blank">Last.fm</a> to get recommendations on music.  Anyways, I found out it was a band that was being "sly" as also being a "user".  I guess I say sly because it may have been PR to be to my friend.
+
+![](../../../../../img/blogposts/bandcamp.png)
 
 Anyways, I found that they were selling one of their albums through <a href = "http://bandcamp.com/" target="blank">bandcamp.com</a>.  At first it seemed like another website selling MP3's, no big deal.  I kinda like what I heard from the band (The <a href = "https://themosesgun.bandcamp.com" target="blank">Moses</a> <a href = "http://www.myspace.com/themosesgun" target="blank">Gun</a> for the curious.) so I wanted to find out if the MP3's were infected with DRM.  In hunting around on the website, I came across more and more reasons why I liked Bandcamp.com.
 
