@@ -3,7 +3,7 @@ date = "2011-07-26T01:15:47-00:00"
 draft = false
 title = "Kid3 Kicks, ah, Well It's A Kyamo Replacement"
 tags = ["FOSS","linux","music","technology"]
-categories = ["Music","Recipes","Tech","Thoughtful","Travel"]
+categories = ["Tech"]
 banner = "img/blogposts/kid3-audio-tag-editor-logo.png"
 +++
 
