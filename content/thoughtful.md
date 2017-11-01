@@ -15,9 +15,10 @@ Other things that are more "permanent" in their idea as well as their expression
 ## Quotes:
 
   * "Never cruel nor cowardly. Never give up nor give in." Promise of the The Doctor, The Day of the Doctor, Doctor Who. (TV show)
-  * "When you are calm and at peace you will know what to do." - Yoda, Star Wars: Empire Strikes Back (movie)
-  * "There comes a time when we must decide between what is easy and what is right." - Albus Dumbledore, Harry Potter (book series)
   * "But while the hungry man seek any food in sight, the greedy man seek only appetite." - Ben Harper, Wicked Man (song)
+  * "There comes a time when we must decide between what is easy and what is right." - Albus Dumbledore, Harry Potter (book series)
+  * "First they came for the Socialists, and I did not speak out — Because I was not a Socialist.  Then they came for the Trade Unionists, and I did not speak out — Because I was not a Trade Unionist. Then they came for the Jews, and I did not speak out — Because I was not a Jew.  Then they came for me—and there was no one left to speak for me." - Martin Niemöller
+  * "When you are calm and at peace you will know what to do." - Yoda, Star Wars: Empire Strikes Back (movie)
   * "There will always be those who mean to do us harm. To stop them we risk awakening the same evil within ourselves. Our first instinct is to   * seek revenge when those we love are taken from us. But that's not who we are." - James T. Kirk, Star Trek: Into Darkness (movie)
   * "Growing up is not becoming mature, but knowing when to act like a kid and when not too" - my Grandmother
   * "Man's mind is not a container to be filled, but rather a fire to be kindled." - Dorthea Brande
